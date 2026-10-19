@@ -1,6 +1,6 @@
-# 🎵 Lyrics Transcriber
+# Lyrics Transcriber
 
-A powerful Python tool for transcribing song lyrics with precise timestamps using OpenAI's Whisper model. Get detailed word-by-word timing and verse analysis of your favorite songs! Perfect for musicians, content creators, and music enthusiasts.
+Python CLI tool that transcribes song lyrics with word-level timestamps using OpenAI Whisper.
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
